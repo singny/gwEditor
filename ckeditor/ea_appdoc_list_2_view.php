@@ -6,6 +6,9 @@
     margin-top: 0;
     margin-bottom: 0rem;
 }
+.ck-content {
+    height: 21.5rem
+}
 @media (max-width: 1400px) {
     .col-w-state {
         display: none !important;
