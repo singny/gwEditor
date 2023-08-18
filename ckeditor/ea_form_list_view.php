@@ -1,10 +1,15 @@
+<style>
+    .ck-content {
+        height: 21.5rem
+    }
+</style>
 <script type="text/javascript" src="/gw/vendor/ckeditor/ckeditor/ckeditor.js"></script>
 <script type="text/javascript" src="/gw/js/ea.js?random=<?php echo uniqid(); ?>"></script>
 <script>
     var editor;
     ClassicEditor
     .create( document.querySelector( '#textareaContent' ), {
-        
+
     } )
     .then( newEditor => {
         editor = newEditor;
