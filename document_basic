@@ -60,7 +60,7 @@
 					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;">수신</span></p>
 				</td>
 				<td style="padding: 0px 6.6px;" colspan="3">
-					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;" lang="EN-US">OOOOO</span></p>
+					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span class="cc" style="font-size: 12pt;" lang="EN-US">OOOOO</span></p>
 				</td>
 			</tr>
 			<tr>
@@ -68,7 +68,7 @@
 					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;">참조</span></p>
 				</td>
 				<td style="padding: 0px 6.6px;" colspan="3">
-					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;" lang="EN-US">OOOOO</span></p>
+					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span class="bcc" style="font-size: 12pt;" lang="EN-US">OOOOO</span></p>
 				</td>
 			</tr>
 			<tr>
@@ -76,13 +76,13 @@
 					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;">문서번호</span></p>
 				</td>
 				<td style="padding: 0px 6.6px;">
-					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;" lang="EN-US">HTXX-000</span></p>
+					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span class="docCd" style="font-size: 12pt;" lang="EN-US">HTXX-000</span></p>
 				</td>
 				<td style="padding: 0px 6.6px;">
 					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; text-indent: 16px; margin: 0px;"><span style="font-size: 12pt;">시행일</span></p>
 				</td>
 				<td style="padding: 0px 6.6px;">
-					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;" lang="EN-US">0000-00-00</span></p>
+					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span class="enforcementDate" style="font-size: 12pt;" lang="EN-US">0000-00-00</span></p>
 				</td>
 			</tr>
 			<tr>
@@ -90,7 +90,7 @@
 					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;">제목</span></p>
 				</td>
 				<td style="padding: 0px 6.6px;" colspan="3">
-					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span style="font-size: 12pt;" lang="EN-US">OOOOOOO OOOOOO</span></p>
+					<p class="MsoNormal" style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; margin: 0px;"><span class="title" style="font-size: 12pt;" lang="EN-US">OOOOOOO OOOOOO</span></p>
 				</td>
 			</tr>
 		</tbody>
